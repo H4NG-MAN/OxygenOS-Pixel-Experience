@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_headlineFontFamily">google-sans</string>
+    <string name="config_headlineFontFamilyMedium">google-sans-medium</string>
+    <string name="config_headlineFontFamilyLight">google-sans-light</string>
+    <string name="font_family_button_material">google-sans-medium</string>
+    <string name="font_family_title_material">google-sans-medium</string>
+    <string name="oneplus_contorl_font_family_body1">google-sans</string>
+    <string name="oneplus_contorl_font_family_button">google-sans-medium</string>
+
+    <string name="manage_notifications_text">Manage</string>
+</resources>

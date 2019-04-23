@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ic_4g_mobiledata" type="drawable">@*com.android.systemui:drawable/ic_lte_mobiledata</item>
+    <item name="ic_4g_plus_mobiledata" type="drawable">@*com.android.systemui:drawable/ic_lte_plus_mobiledata</item>
+    <!--<item name="stat_sys_data_fully_connected_4g" type="drawable">@*com.android.systemui:drawable/ic_lte_mobiledata</item>-->
+    <!--<item name="stat_sys_data_fully_connected_4g_plus" type="drawable">@*com.android.systemui:drawable/ic_lte_plus_mobiledata</item>-->
+    <item name="stat_sys_data_fully_connected_4g" type="drawable">@*com.android.systemui:drawable/stat_sys_data_fully_connected_lte</item>
+    <item name="stat_sys_data_fully_connected_4g_plus" type="drawable">@*com.android.systemui:drawable/stat_sys_data_fully_connected_lte_plus</item>
+    <item name="stat_sys_signal_in" type="drawable">@*com.android.systemui:drawable/stat_sys_wifi_in</item>
+    <item name="stat_sys_signal_inout" type="drawable">@*com.android.systemui:drawable/stat_sys_wifi_inout</item>
+    <item name="stat_sys_signal_out" type="drawable">@*com.android.systemui:drawable/stat_sys_wifi_out</item>
+    <item name="ic_volume_setting" type="drawable">@*com.android.systemui:drawable/ic_settings_16dp</item>
+    <item name="ic_sysbar_rotate_button2" type="drawable">@*com.android.systemui:drawable/ic_sysbar_rotate_button</item>
+    <!--<item name="stat_sys_signal_4_fully" type="drawable">@*com.android.systemui:drawable/stat_sys_wifi_out</item>-->
+    <!--<item name="stat_sys_signal_3_fully" type="drawable">@*com.android.systemui:drawable/stat_sys_wifi_out</item>-->
+    <!--<item name="stat_sys_signal_2_fully" type="drawable">@*com.android.systemui:drawable/stat_sys_wifi_out</item>-->
+    <!--<item name="stat_sys_signal_1_fully" type="drawable">@*com.android.systemui:drawable/stat_sys_wifi_out</item>-->
+    <!--<item name="stat_sys_signal_stacked_in" type="drawable">@*drawable/stat_sys_signal_none</item>-->
+    <!--<item name="stat_sys_signal_stacked_inout" type="drawable">@*drawable/stat_sys_signal_none</item>-->
+    <!--<item name="stat_sys_signal_stacked_out" type="drawable">@*drawable/stat_sys_signal_none</item>-->
+    <!--<item name="stat_sys_signal_stacked_none" type="drawable">@*drawable/stat_sys_signal_none</item>-->
+    <!--<item name="stat_sys_signal_none" type="drawable">@android:color/transparent</item>-->
+</resources>

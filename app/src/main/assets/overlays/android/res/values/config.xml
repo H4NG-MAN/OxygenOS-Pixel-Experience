@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_headlineFontFamily">google-sans</string>
+    <string name="config_headlineFontFamilyMedium">google-sans-medium</string>
+    <string name="config_headlineFontFamilyLight">google-sans</string>
+    <string name="config_headlineFontFeatureSettings">ss03</string>
+
+    <bool name="config_buttonTextAllCaps">false</bool>
+
+    <dimen name="config_dialogCornerRadius">8dp</dimen>
+    <dimen name="config_buttonCornerRadius">2dp</dimen>
+</resources>
